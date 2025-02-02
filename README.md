@@ -37,8 +37,7 @@ deepbim/
 ├── ChatWindow.xaml                   # UI layout
 ├── ChatWindow.xaml.cs                 # Handles chat interactions
 ├── DeepSeekService.cs                 # API connection handler
-├── MarkdownToInlineConverter.cs       # Markdown formatting utility
-└── Resources/                         # Stores images/icons (e.g., blue_whale.png)
+└── MarkdownToInlineConverter.cs       # Markdown formatting utility
 ```
 
 ---
