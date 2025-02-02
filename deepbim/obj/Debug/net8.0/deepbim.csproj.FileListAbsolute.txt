@@ -1,0 +1,12 @@
+C:\Users\balse\Documents\BIM\Revit\Plugins\deepbim\deepbim\bin\Debug\net8.0\deepbim.deps.json
+C:\Users\balse\Documents\BIM\Revit\Plugins\deepbim\deepbim\bin\Debug\net8.0\deepbim.dll
+C:\Users\balse\Documents\BIM\Revit\Plugins\deepbim\deepbim\bin\Debug\net8.0\deepbim.pdb
+C:\Users\balse\Documents\BIM\Revit\Plugins\deepbim\deepbim\obj\Debug\net8.0\deepbim.csproj.AssemblyReference.cache
+C:\Users\balse\Documents\BIM\Revit\Plugins\deepbim\deepbim\obj\Debug\net8.0\deepbim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balse\Documents\BIM\Revit\Plugins\deepbim\deepbim\obj\Debug\net8.0\deepbim.AssemblyInfoInputs.cache
+C:\Users\balse\Documents\BIM\Revit\Plugins\deepbim\deepbim\obj\Debug\net8.0\deepbim.AssemblyInfo.cs
+C:\Users\balse\Documents\BIM\Revit\Plugins\deepbim\deepbim\obj\Debug\net8.0\deepbim.csproj.CoreCompileInputs.cache
+C:\Users\balse\Documents\BIM\Revit\Plugins\deepbim\deepbim\obj\Debug\net8.0\deepbim.dll
+C:\Users\balse\Documents\BIM\Revit\Plugins\deepbim\deepbim\obj\Debug\net8.0\refint\deepbim.dll
+C:\Users\balse\Documents\BIM\Revit\Plugins\deepbim\deepbim\obj\Debug\net8.0\deepbim.pdb
+C:\Users\balse\Documents\BIM\Revit\Plugins\deepbim\deepbim\obj\Debug\net8.0\ref\deepbim.dll
