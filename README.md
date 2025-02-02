@@ -24,13 +24,9 @@ Here's a **GitHub README-style document** with **requirements, technical details
 
 ### **System Requirements**
 **1. Software & Dependencies**
-- **Autodesk Revit 2023+** (Required)
-- **.NET 6.0 or higher** (For WPF UI and Revit plugin)
-- **NuGet Packages:**
-  - `Autodesk.Revit.DB`
-  - `Autodesk.Revit.UI`
-  - `System.Net.Http`
-  - `System.Text.Json`
+- **Autodesk Revit 2025** (Required)
+- **.NET 8.0** (For WPF UI and Revit plugin)
+- necessary Assemblies and .NET framework (e.g. RevitAPI, RevitAPIUI, Microsoft.Windows.Desktop.App.WPF, etc)
 
 **2. Folder Structure**
 ```
