@@ -10,11 +10,6 @@ Here's a **GitHub README-style document** with **requirements, technical details
 
 ---
 
-## **DeepBIM - Revit AI Chat Assistant**
-**DeepBIM** is a **Revit plugin** that provides an **AI-powered assistant** to enhance workflow efficiency within Autodesk Revit. It integrates with an external AI API to process user queries and display responses inside a custom chat interface.
-
----
-
 ### **Features**
 ✅ **Revit Ribbon Integration** – Adds a custom **DeepBIM button** inside Revit’s UI.  
 ✅ **Chat Interface** – Allows users to send queries and receive AI-generated responses.  
