@@ -18,7 +18,6 @@ Here's a **GitHub README-style document** with **requirements, technical details
 ### **Features**
 ✅ **Revit Ribbon Integration** – Adds a custom **DeepBIM button** inside Revit’s UI.  
 ✅ **Chat Interface** – Allows users to send queries and receive AI-generated responses.  
-✅ **Markdown Support** – Formats responses with headers, bold text, and code blocks.  
 ✅ **Custom API Support** – Users can replace the default API with their own AI endpoint.  
 
 ---
