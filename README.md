@@ -53,8 +53,7 @@ deepbim/
 ---
 
 ### **API Integration**
-**Default API (Author-Only)**
-The API endpoint **currently only allows access to the author**. To use your own API, modify `DeepSeekService.cs`:
+The API endpoint (that is connected to the DeepSeek LLM) **currently only allows access to the author**. To use your own API, modify `DeepSeekService.cs`:
 
 ```csharp
 private static readonly string ApiBaseUrl = Environment.GetEnvironmentVariable("DEEPBIM_API_URL") ?? "https://your-api-url.com";
