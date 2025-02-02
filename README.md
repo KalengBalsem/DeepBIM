@@ -24,8 +24,8 @@ Here's a **GitHub README-style document** with **requirements, technical details
 
 ### **System Requirements**
 **1. Software & Dependencies**
-- **Autodesk Revit 2025** (Required)
-- **.NET 8.0** (For WPF UI and Revit plugin)
+- **Autodesk Revit 2025**
+- **.NET 8.0**
 - necessary Assemblies and .NET framework (e.g. RevitAPI, RevitAPIUI, Microsoft.Windows.Desktop.App.WPF, etc)
 
 **2. Folder Structure**
