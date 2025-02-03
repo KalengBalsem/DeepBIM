@@ -11,8 +11,7 @@ At this stage, the chatbot itself is fully functional, but it’s not yet connec
 ### **Documentation**
 
 UML Class Diagram
-![DeepBIM_classes drawio](https://github.com/user-attachments/assets/cdc33fcd-a3ca-4654-8114-70d19f33f5e4)
-
+![DeepBIM_classes drawio (1)](https://github.com/user-attachments/assets/aa6188ac-a77d-4223-ac52-c614f32a8082)
 
 ---
 
