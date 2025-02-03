@@ -6,6 +6,8 @@ DeepBIM is an AI-augmented BIM framework to enhance BIM workflows.
 DeepBIM Assistant is an integrated LLM in Revit that act as a chat assistant.
 At this stage, the chatbot itself is fully functional, but it’s not yet connected to the Revit API—the video demo showcases its potential.
 
+---
+
 ### **Documentation**
 
 UML Class Diagram
