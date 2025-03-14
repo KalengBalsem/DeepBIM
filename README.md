@@ -51,7 +51,7 @@ deepbim/
 2. **Build the project** in Visual Studio.
 3. **Place the compiled `.dll` in the Revit Add-ins folder**:
    ```
-   %APPDATA%\Autodesk\Revit\Addins\2023\
+   %APPDATA%\Autodesk\Revit\Addins\2025\
    ```
 4. **Restart Revit** and locate the **DeepBIM button** in the Ribbon.
 
